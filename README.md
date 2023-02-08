@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sehjalhamit" target="blank"><img src="https://img.shields.io/twitter/follow/sehjalhamit?logo=twitter&style=for-the-badge" alt="sehjalhamit" /></a> </p>
 
-- 🔭 I’m currently working on [A Car Dealership Website](https://github.com/hamitsehjal/Car-Dealership22)
+- 🔭 I’m currently working on [A Pet Adoption App built with React](https://github.com/hamitsehjal/Pet-Adoption-App)
 
 - 🌱 I’m currently learning **Java, React JS**
 
