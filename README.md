@@ -1,4 +1,4 @@
-<img align="right" alt="Background" width="100%" src="./software-developer.png">
+<img align="right" alt="Background" width="100%" height="50%" src="./softwaredeveloper.png">
 &nbsp;
 <h1 align="center">Hi, I'm Hamit</h1>
 <h5 align="center">I am a software developer with a passion for creating efficient solutions to complex problems. I am currently studying Computer Science at Seneca PolyTechnic in Toronto. Passionate about designing and developing efficient software solutions, I excel in creating seamless user experiences and driving impactful results. With a strong technical background and a knack for problem-solving, I strive to deliver high-quality applications that meet the needs of modern businesses.</h5>
