@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hamitsehjal26@gmail.com**
 
-- 📜 Read my technical blogs **https://hamitblogs.hashnode.dev/**
+- 📜 Read my technical blogs **[https://hamitblogs.hashnode.dev/](https://hamitsehjal.hashnode.dev)**
 
 <div align="center">
 <h3 align="left">Socials:</h3>
