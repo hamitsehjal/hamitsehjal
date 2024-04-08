@@ -4,9 +4,6 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/hamitsehjal/hamitsehjal/blob/main/programmer.gif">
 
 
-
-- 🌱 I’m currently working on Building an application that serves as a platform offering affordable groceries to Seneca Students!!
-
 - 🌱 I’m currently learning **Cloud Computing and iOS App Development**
 
 - 📫 How to reach me **hamitsehjal26@gmail.com**
