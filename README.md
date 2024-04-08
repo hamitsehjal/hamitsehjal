@@ -6,16 +6,9 @@
 - 📫 How to reach me **hamitsehjal26@gmail.com**
 - 📜 Read my technical blogs **[https://hamitblogs.hashnode.dev/](https://hamitsehjal.hashnode.dev)
   
-<div align="center">
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/sehjalhamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarikozturk017" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hamitsehjal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarik-ozturk-28b050159" height="30" width="40" /></a>
-</p>
-<p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamitsehjal&show_icons=true&locale=en&layout=compact" alt="hamitsehjal" />
-</p>
-</div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamitsehjal&show_icons=true&locale=en&layout=compact" alt="hamitsehjal" />
+
 
 
 
