@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and iOS App Development**
 - 📫 How to reach me **hamitsehjal26@gmail.com**
-- 📜 Read my technical blogs **[https://hamitblogs.hashnode.dev/](https://hamitsehjal.hashnode.dev)
+- 📜 Read my technical blogs [https://hamitblogs.hashnode.dev/](https://hamitsehjal.hashnode.dev)
   
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamitsehjal&show_icons=true&locale=en&layout=compact" alt="hamitsehjal" />
